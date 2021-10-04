@@ -1,0 +1,28 @@
+img {
+    max-width: 100%;
+}
+
+
+.heading1 {
+    position: relative;
+    left: 60%;
+    bottom: 190px;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.vedantu {
+    color: black;
+}
+
+.super {
+    color: orange;
+}
+
+.heading2 {
+    position: relative;
+    left: 60%;
+    bottom: 200px;
+    font-size: 25px;
+    color: blue;
+}
